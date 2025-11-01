@@ -85,7 +85,7 @@ I love working on **team-based projects**, participating in **hackathons**, and 
 <p align="left">
 <a href="https://linkedin.com/in/veeraa-vikash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/VeeraaVikash" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:veeraavikashs21@gmail.com target="_blank"><img src="https://img.shields.io/badge/Email-vs7645@srmist.edu.in-red?style=for-the-badge" alt="Email"/></a>
+<a href="mailto:veeraavikashs21@gmail.com target="_blank"><img src="https://img.shields.io/badge/Email-veeraavikash21@gmail.com-red?style=for-the-badge" alt="Email"/></a>
 <a href="https://instagram.com/vikash_veeraa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://codeforces.com/profile/veeraavikash" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <a href="https://www.leetcode.com/veeraavikash" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
