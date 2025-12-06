@@ -27,7 +27,7 @@ class VeeraaVikash:
             "degree": "B.Tech Computer Science & Engineering",
             "institution": "SRM Institute of Science and Technology",
             "cgpa": "9.88/10.0",
-            "year": "First Year (2024-2028)",
+            "year": "Second Year (2024-2028)",
             "awards": ["First Year Achiever Award"]
         }
         self.current_work = [
@@ -278,7 +278,7 @@ I'm always excited to collaborate on:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🚀 Deploy Cyberbullying Detection System to production
 - [ ] 📝 Publish research paper on BERT-based detection
