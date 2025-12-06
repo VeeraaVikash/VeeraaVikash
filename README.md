@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F4E78&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Blockchain+Developer+%E2%9B%93;Software+Testing+Specialist+%F0%9F%94%A7;First+Year+CS+Student+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI%2FML+Engineer+%F0%9F%A4%96;Blockchain+Developer+%E2%9B%93;Software+Testing+Specialist+%F0%9F%94%A7;Second+Year+CS+Student)](https://git.io/typing-svg))
 
 **Building the future with AI, Blockchain, and Rigorous Testing**
 
